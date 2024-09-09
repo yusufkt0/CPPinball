@@ -1,0 +1,3 @@
+/home/dd/Documents/projects/CPPinball/build/CMakeFiles/BumperGame.dir
+/home/dd/Documents/projects/CPPinball/build/CMakeFiles/edit_cache.dir
+/home/dd/Documents/projects/CPPinball/build/CMakeFiles/rebuild_cache.dir
